@@ -1,0 +1,10 @@
+
+@import "./reset.css";
+/* 引入css文件，也可以写成@import url("./reset.css") */
+
+
+div {
+	font-size: 30px;
+	color: #c33;
+	font-weight: 700;
+}
